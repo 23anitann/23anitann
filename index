@@ -1,0 +1,21 @@
+# 23anitann.github.io
+
+## Purpose
+This repository contains the code for my personal website, which serves as an online portfolio of my work, skills, and experience. The purpose of this website is to showcase my projects and skills to potential employers, clients, and collaborators.
+
+## Features
+- The website is built using HTML, CSS, and JavaScript.
+- It includes a homepage, about page, projects page, and contact page.
+- The homepage includes a brief introduction and links to the other pages.
+- The about page provides more information about me, my background, and my interests.
+- The projects page showcases some of my recent projects, with descriptions and links to the code and live demos.
+- The contact page includes a contact form and links to my social media profiles.
+
+## Usage
+You can view the live website at https://23anitann.github.io/23anitann/. Feel free to browse through the pages and check out the projects. If you want to use the code for your own website, you can fork this repository and modify it as needed.
+
+## Contributions
+I welcome contributions, bug reports, and feedback on this project. If you find any issues or have any suggestions, please open an issue or pull request on GitHub.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
